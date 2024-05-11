@@ -1,0 +1,6 @@
+{
+  "routes": [
+    { "handle": "filesystem" },
+    { "src": "/save-prediction", "dest": "save-prediction.js" }
+  ]
+}
